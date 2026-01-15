@@ -3,7 +3,14 @@
     "allow": [
       "Bash(powershell:*)",
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(ping:*)",
+      "Bash(git config:*)",
+      "Bash(git remote set-url:*)",
+      "Bash(gh:*)",
+      "Bash(timeout:*)"
     ]
   }
 }
