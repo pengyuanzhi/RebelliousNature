@@ -10,7 +10,9 @@
       "Bash(git config:*)",
       "Bash(git remote set-url:*)",
       "Bash(gh:*)",
-      "Bash(timeout:*)"
+      "Bash(timeout:*)",
+      "Bash(ipconfig:*)",
+      "Bash(nslookup:*)"
     ]
   }
 }
