@@ -12,7 +12,14 @@
       "Bash(gh:*)",
       "Bash(timeout:*)",
       "Bash(ipconfig:*)",
-      "Bash(nslookup:*)"
+      "Bash(nslookup:*)",
+      "Bash(python:*)",
+      "Bash(ls:*)",
+      "Bash(wc:*)",
+      "Bash(for:*)",
+      "Bash(do echo:*)",
+      "Bash(done)",
+      "Bash(git branch:*)"
     ]
   }
 }
