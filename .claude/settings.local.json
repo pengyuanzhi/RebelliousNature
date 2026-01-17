@@ -19,7 +19,10 @@
       "Bash(for:*)",
       "Bash(do echo:*)",
       "Bash(done)",
-      "Bash(git branch:*)"
+      "Bash(git branch:*)",
+      "Bash(rm:*)",
+      "Bash(git rm:*)",
+      "Bash(iconv:*)"
     ]
   }
 }
